@@ -15291,11 +15291,14 @@ MAPAS
   width: 31%;
 }
 
+.maps-metalicas h5{
+  font-size: 27px;
+}
+
 .maps-metalicas h5,.maps-metalicas p{
   margin-bottom: 35px;
   text-align: center;
   color: white;
-  font-size: 27px;
 }
 
 .garantia{
