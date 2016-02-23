@@ -432,7 +432,6 @@ jQuery(document).ready(function()
 {
 	jQuery('.ubicacion').click(function()
 	{
-		alert('DRWADE');
 		jQuery('.maps-metalicas').removeClass('hidden');
 	});
 	jQuery('.maps-metalicas').click(function()

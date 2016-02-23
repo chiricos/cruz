@@ -9,7 +9,7 @@
 <div class="condiciones">
 	<ul>		
 		<li><a href="http://cruz.simonsein.co/?page_id=4402"><img src="http://cruz.simonsein.co/wp-content/uploads/2016/02/icono-politicas.png">Políticas Cruz</a></li>
-		<li><a href="http://cruz.simonsein.co/?page_id=5006"><img src="http://cruz.simonsein.co/wp-content/uploads/2016/02/icono-cuidados.png">Cuidado de tus muebles</a></li>		
+		<li><a href="http://cruz.simonsein.co/?page_id=5006"><img src="http://cruz.simonsein.co/wp-content/uploads/2016/02/icono-cuidados1.png">Cuidado de tus muebles</a></li>
 		<li><a href="http://cruz.simonsein.co/?page_id=4379"><img src="http://cruz.simonsein.co/wp-content/uploads/2016/02/icono-envios.png">Envío</a></li>
 		<li><a href="http://cruz.simonsein.co/?page_id=635"><img src="http://cruz.simonsein.co/wp-content/uploads/2016/02/icono-quienessomos.png">Quiénes somos</a></li>
 		<li><a href="http://cruz.simonsein.co/?page_id=642"><img src="http://cruz.simonsein.co/wp-content/uploads/2016/02/icono-contacto.png">Contáctenos</a></li>
