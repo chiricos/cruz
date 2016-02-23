@@ -14746,6 +14746,10 @@ estilos JUAN FRANCISCO Z
   margin-left: -36px;
 }
 
+.top-form .wrapp-minicart .minicart-padding ul.minicart-content{
+  margin-left:0;
+}
+
 .primary-menu .navbar-inner .nav > li > a{
   border:none;
   color:#666666;
