@@ -14,14 +14,14 @@
 <div class="menu-top">
 	<div class="container">
 		<ul>
-			<li><a href="http://localhost/atom/?page_id=751">Proyectos</a></li>
-			<li><a href="http://localhost/atom/?page_id=3215">Puntos de experiencia</a></li>
-			<li><a href=" http://localhost/atom/?page_id=4277">Catálogos</a></li>			
-			<li><a href="http://localhost/atom/?page_id=635">Conócenos</a></li>
-			<li><a href="http://localhost/atom/?page_id=642">Contáctenos</a></li>
-			<li><a href="http://localhost/atom/?page_id=4175&preview=true">Garantía</a></li>
-			<li><a href="http://localhost/atom/?page_id=4379">Envío</a></li>
-			<li><a href="http://localhost/atom/?page_id=4402">Compra</a></li>
+			<li><a href="http://cruz.simonsein.co/?page_id=751">Proyectos</a></li>
+			<li><a href="http://cruz.simonsein.co/?page_id=3215">Puntos de experiencia</a></li>
+			<li><a href="http://cruz.simonsein.co/?page_id=4277">Catálogos</a></li>			
+			<li><a href="http://cruz.simonsein.co/?page_id=635">Conócenos</a></li>
+			<li><a href="http://cruz.simonsein.co/?page_id=642">Contáctenos</a></li>
+			<li><a href="http://cruz.simonsein.co/?page_id=4175&preview=true">Garantía</a></li>
+			<li><a href="http://cruz.simonsein.co/?page_id=4379">Envío</a></li>
+			<li><a href="http://cruz.simonsein.co/?page_id=4402">Compra</a></li>
 		</ul> 
 	<div class="top-social">
 		<a href="https://www.facebook.com/Met%C3%A1licas-Cruz-212039442461429/?ref=bookmarks" target="_blank">
