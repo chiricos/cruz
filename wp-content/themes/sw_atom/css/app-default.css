@@ -12,7 +12,7 @@
 [class*="span"] {
   float: left;
   min-height: 1px;
-  margin-left: ;
+  margin-left: 0;
 }
 #lang_sel_click {
   height: 32px;
@@ -4069,7 +4069,6 @@ ul#menu-top-header > li.active a {
 .products-nav .catalog-ordering .orderby-order-container ul li a {
   font-size: 11px;
   padding: 0 15px 0 0;
-  color: ;
   min-height: 26px;
   display: block;
   white-space: nowrap;
@@ -15182,13 +15181,6 @@ menu responsive
   margin-bottom: 15px;
 }
 
-
-.woocommerce a.button,.products-wrapper .products-loop > li .products-entry .products-content a.add_to_cart_button{
-  background: red;
-  border-color: red;
-  color:white;
-}
-
 .woocommerce a.button:hover,.products-wrapper .products-loop > li .products-entry .products-content a.add_to_cart_button:hover{
   background: white;
   color: red;
@@ -15272,18 +15264,25 @@ MAPAS
 ********************************/
 
 .maps-metalicas{
-  background: rgba(128, 128, 128, 0.49);
+  background: rgba(0, 0, 0, 0.81);
   padding: 15px 0;
+  position: fixed;
   width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 99999;
 }
 
 .maps-metalicas > section{
   margin: auto;
   width: 80%;
+  MARGIN-TOP: 10%;
 }
 
 .maps-metalicas > section > h5{
   margin-bottom: 35px;
+  color:white;
 }
 
 .maps-metalicas > section > figure{
@@ -15293,9 +15292,10 @@ MAPAS
 }
 
 .maps-metalicas h5,.maps-metalicas p{
-  color: #4a4a49;
-  font-family: optima-atom!important;
-  font-weight: bold;
+  margin-bottom: 35px;
+  text-align: center;
+  color: white;
+  font-size: 27px;
 }
 
 .garantia{
@@ -15310,4 +15310,8 @@ MAPAS
 
 .img_footer{
     display: inline-flex;
+}
+
+.hover-image{
+  display:none;
 }
