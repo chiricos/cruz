@@ -35,8 +35,8 @@
       <file leaf-file-name="app-default.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sw_atom/css/app-default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33277312">
-              <caret line="630" column="57" selection-start-line="630" selection-start-column="20" selection-end-line="630" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.19327731">
+              <caret line="14641" column="16" selection-start-line="14641" selection-start-column="16" selection-end-line="14641" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -71,8 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/js/main.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/css/app-default.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/css/app-default.css" />
       </list>
     </option>
   </component>
@@ -242,7 +242,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pepelotrae" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -315,8 +315,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sw_atom/css/app-default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33277312">
-          <caret line="630" column="57" selection-start-line="630" selection-start-column="20" selection-end-line="630" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.19327731">
+          <caret line="14641" column="16" selection-start-line="14641" selection-start-column="16" selection-end-line="14641" selection-end-column="16" />
           <folding />
         </state>
       </provider>
