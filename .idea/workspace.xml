@@ -32,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app-default.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app-default.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/sw_atom/css/app-default.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19327731">
+            <state vertical-scroll-proportion="-2.1296296">
               <caret line="14641" column="16" selection-start-line="14641" selection-start-column="16" selection-end-line="14641" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/sw_atom/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.672">
+              <caret line="33" column="39" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -73,6 +83,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/js/main.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/css/app-default.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/sw_atom/header.php" />
       </list>
     </option>
   </component>
@@ -315,8 +326,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/sw_atom/css/app-default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19327731">
+        <state vertical-scroll-proportion="-2.1296296">
           <caret line="14641" column="16" selection-start-line="14641" selection-start-column="16" selection-end-line="14641" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/sw_atom/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.672">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="39" />
           <folding />
         </state>
       </provider>

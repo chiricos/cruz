@@ -27,17 +27,11 @@
 		<a href="https://www.facebook.com/Met%C3%A1licas-Cruz-212039442461429/?ref=bookmarks" target="_blank">
 			<span class="fa fa-facebook icon-social"></span>
 		</a>
-		<a href="https://fb.com" target="_blank">
-			<span class="fa  fa-twitter icon-social"></span>
-		</a>
 		<a href="https://plus.google.com/u/0/115231477183451786072/posts" target="_blank">
 			<span class="fa fa-google-plus icon-social"></span>
 		</a>
 		<a href="https://fb.com" target="_blank">
 			<span class="fa fa-linkedin icon-social"></span>
-		</a>
-		<a href="https://www.pinterest.com/metalicascruz/" target="_blank">
-			<span class="fa fa-pinterest icon-social"></span>
 		</a>
 	</div>
 	</div>
